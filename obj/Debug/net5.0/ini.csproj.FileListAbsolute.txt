@@ -1,0 +1,16 @@
+C:\Users\INI\Desktop\USMAN\ini\bin\Debug\net5.0\ini.exe
+C:\Users\INI\Desktop\USMAN\ini\bin\Debug\net5.0\ini.deps.json
+C:\Users\INI\Desktop\USMAN\ini\bin\Debug\net5.0\ini.runtimeconfig.json
+C:\Users\INI\Desktop\USMAN\ini\bin\Debug\net5.0\ini.runtimeconfig.dev.json
+C:\Users\INI\Desktop\USMAN\ini\bin\Debug\net5.0\ini.dll
+C:\Users\INI\Desktop\USMAN\ini\bin\Debug\net5.0\ref\ini.dll
+C:\Users\INI\Desktop\USMAN\ini\bin\Debug\net5.0\ini.pdb
+C:\Users\INI\Desktop\USMAN\ini\obj\Debug\net5.0\ini.csproj.AssemblyReference.cache
+C:\Users\INI\Desktop\USMAN\ini\obj\Debug\net5.0\ini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INI\Desktop\USMAN\ini\obj\Debug\net5.0\ini.AssemblyInfoInputs.cache
+C:\Users\INI\Desktop\USMAN\ini\obj\Debug\net5.0\ini.AssemblyInfo.cs
+C:\Users\INI\Desktop\USMAN\ini\obj\Debug\net5.0\ini.csproj.CoreCompileInputs.cache
+C:\Users\INI\Desktop\USMAN\ini\obj\Debug\net5.0\ini.dll
+C:\Users\INI\Desktop\USMAN\ini\obj\Debug\net5.0\ref\ini.dll
+C:\Users\INI\Desktop\USMAN\ini\obj\Debug\net5.0\ini.pdb
+C:\Users\INI\Desktop\USMAN\ini\obj\Debug\net5.0\ini.genruntimeconfig.cache
